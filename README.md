@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/beniysaissam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beniysaissam" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/issam-beniysa-1012971aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="issam beniysa" height="30" width="40" /></a>
-<a href="https://fb.com/issam beniysa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="issam beniysa" height="30" width="40" /></a>
+<a href="https://web.facebook.com/issam.ben.528316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="issam beniysa" height="30" width="40" /></a>
 <a href="https://instagram.com/beniysa_issam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beniysa_issam" height="30" width="40" /></a>
 </p>
 
